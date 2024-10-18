@@ -1,3 +1,3 @@
 # Generative_AI
-Text generation and translation using generative AI
-MCQ Generator using langchain
+1. Text generation and translation using generative AI\n
+2. MCQ Generator using langchain
